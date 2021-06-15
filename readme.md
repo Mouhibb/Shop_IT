@@ -1,29 +1,68 @@
-# ShopIT تسوق Ecommerce Project
+<h1 align="center">Welcome to ShopIT تسوق 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/Mouhibb" target="_blank">
+    <img alt="Twitter: Mouhibb" src="https://img.shields.io/twitter/follow/Mouhibb.svg?style=social" />
+  </a>
+</p>
 
-> Complete E-commerce site built with Node.js, React, Redux, Express, MongoDB
+> It is a full e-commerce website built using mern includes all advanced features like products management, stock management,
+>  bills management, monitoring, secure payment, marketing automation and many other features.
+
+### 🏠 [Homepage]
+![Capture22222222](https://user-images.githubusercontent.com/45210150/122081850-616bc100-cdf7-11eb-8ef3-63921403f25f.PNG)
+![Capture3333333333333](https://user-images.githubusercontent.com/45210150/122081945-76485480-cdf7-11eb-8efc-2c232c175aaa.PNG)
 
 
-### Env Variables
 
-Add your config variables values in the config.env file in backend/config folder.
+### ✨ [Demo](https://ecommerce-mall.herokuapp.com/)
 
-### Install Dependencies (Frontend)
+### 🔧 Features
 
+✅ React.js
+✅ Redux
+✅ Node.js
+✅ Express
+✅ MongoDB
+➡ Nodemailer
+➡ Mailchimp
+➡ Cloudinary
+➡ Stripe 
+➡ Responsive design
+
+
+## Install
+
+```sh
+npm install
 ```
-cd frontend
-npm i
+
+## Usage
+
+```sh
+npm run dev
+npm start
 ```
 
-### Install Dependencies (Backend)
+## Run build
 
-```
-npm i
+```sh
+npm run build
 ```
 
-### Seed Database
+## Author
 
-Run it in the root folder.
+👤 **Trabelsi Mouhib**
 
-```
-npm run seeder
-```
+* Twitter: [@Mouhibb](https://twitter.com/Mouhibb)
+* Github: [@Mouhibb](https://github.com/Mouhibb)
+* LinkedIn: [@mouhib-trabelsi](https://linkedin.com/in/mouhib-trabelsi)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
