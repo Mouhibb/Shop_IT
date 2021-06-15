@@ -18,7 +18,7 @@
 
 
 
-### ✨ [Demo](https://ecommerce-mall.herokuapp.com/)
+### ✨ [Demo](https://shoplt.herokuapp.com/)
 
 ### 🔧 Features
 
